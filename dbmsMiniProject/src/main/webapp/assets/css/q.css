@@ -1,0 +1,8 @@
+@charset "UTF-8";
+.question {
+    display: none;
+}
+
+.question.active {
+    display: block;
+}
