@@ -3,7 +3,8 @@
 
 Description:
 
-In Catch 'Em All , users are challenged to think of a Generation 1 Pokemon and the game utilizes a series of questions to accurately guess the user's chosen Pokemon with 100% accuracy. The interactive nature of the game keeps users entertained and engaged as they try to stump the system and test its ability to correctly identify their chosen Pokemon.
+In Catch 'Em All , users are challenged to think of a Generation 1 Pokemon and the game utilizes a series of questions to accurately guess the user's chosen Pokemon with 100% accuracy. 
+The interactive nature of the game keeps users entertained and engaged as they try to stump the system and test its ability to correctly identify their chosen Pokemon.
 
 
 ## Key Features:
@@ -21,7 +22,7 @@ Interactive gameplay that asks users a series of questions to guess the chosen P
 ![2](https://github.com/akanksha1131/Catch-Em-All/assets/115597711/1f39959f-6842-436a-b8ba-409dce00cbc7)
 
 
-## Frontend
+## Frontend images
 
 
 ![signup](https://github.com/akanksha1131/Catch-Em-All/assets/115597711/2e1c74e7-59d7-41dd-9fae-637773dcebaf)
